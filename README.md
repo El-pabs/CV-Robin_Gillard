@@ -1,6 +1,5 @@
 # 📄 CV-Robin_Gillard
 
-[HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flatA stylish, responsive personal CV website for Robin Gillard.**  
 > Easily customizable for your own online resume!
 
 ---
